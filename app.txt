@@ -1,0 +1,3 @@
+print("started task 1")
+functionally calculate fees Day02
+adding another line
